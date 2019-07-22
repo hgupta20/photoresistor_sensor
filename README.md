@@ -8,5 +8,6 @@ The 5 predefined text values are:
 * medium
 * partially light
 * fully lit
+
 This involves you determining the range of values the photoresistor provides and then making reasonable
 ranges for the values being considered.
